@@ -37,10 +37,6 @@
   <a href="#-license">License</a>
 </p>
 
-<p id="insomniaButton" align="center">
-  <a href="" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
-
 ## 👨🏻‍💻 About the project
 
 - <p style="color: red;">Brief explanation about the project</p>
@@ -72,7 +68,7 @@ Technologies that I used to develop this api
 
 ## 💻 Getting started
 
-Import the `Insomnia.json` on Insomnia App or click on [Run in Insomnia](#insomniaButton) button
+Lorem Ipsum
 
 ### Requirements
 

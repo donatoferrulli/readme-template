@@ -1,6 +1,5 @@
 <h1 align="center">
 	<!-- <img alt="Logo" src=".github/logo.png" width="200px" /> -->
-  Application Logo
 </h1>
 
 <h3 align="center">
@@ -37,14 +36,14 @@
   <a href="#-license">License</a>
 </p>
 
-## 👨🏻‍💻 About the project
+## � About the project
 
 - <p style="color: red;">Brief explanation about the project</p>
 
 To see the **api**, click here: [PROJECT_NAME Rest API](https://github/donatoferrulli/readme-template)</br>
 To see the **web client**, click here: [PROJECT_NAME Web](https://github/donatoferrulli/readme-template)
 
-## 🚀 Technologies
+## 💡 Technologies
 
 Technologies that I used to develop this mobile client
 
@@ -100,14 +99,14 @@ $ yarn ios
 # Fork using GitHub official command line
 # If you don't have the GitHub CLI, use the web site to do that.
 
-$ gh repo fork donatoferrulli/NOME_DO_REPO
+$ gh repo fork donatoferrulli/REPO_NAME
 ```
 
 **Follow the steps below**
 
 ```bash
 # Clone your fork
-$ git clone your-fork-url && cd NOME_DO_REPO
+$ git clone your-fork-url && cd REPO_NAME
 
 # Create a branch with your feature
 $ git checkout -b my-feature
@@ -121,10 +120,33 @@ $ git push origin my-feature
 
 After your pull request is merged, you can delete your branch
 
+## 👨🏻‍💻 Developers
+
+Made by Donato Ferrulli 👋 [See my linkedin](https://www.linkedin.com/in/donato-ferrulli-1324a796/)
+
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
----
+MIT License
 
-Made with 💜 by Donato Ferrulli 👋 [See my linkedin](https://www.linkedin.com/in/donato-ferrulli-1324a796/)
+Copyright (c) 2020 Donato Ferrulli
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
